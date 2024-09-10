@@ -64,5 +64,3 @@ Through these CTF challenges and SOC training, I developed the following core cy
 ## Contact
 If you’d like to discuss any of these challenges or my SOC analyst training, feel free to reach out:
 - **Email**: marepalli.rakesh@gmail.com
-- **GitHub**: [github.com/your-username](https://github.com/your-username)
-
